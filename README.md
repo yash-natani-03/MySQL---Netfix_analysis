@@ -14,7 +14,7 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 
 ## Dataset
 
-- **Dataset Link:** [[Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download](https://github.com/yash-natani-03/MySQL-Netfix_analysis/blob/main/netflix_titles.csv))]
+- **Dataset Link:** [[Movies Dataset](https://github.com/yash-natani-03/MySQL-Netfix_analysis/blob/main/netflix_titles.csv)]
 
 ## Schema
 
